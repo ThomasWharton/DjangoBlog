@@ -32,7 +32,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     '8000-thomaswharto-djangoblog-c5667ozguk3.ws-eu104.gitpod.io',
-    'django-blog-tw.heroku.com',
+    'django-blog-tw-c41256aae971.herokuapp.com',
     'localhost'
 ]
 
